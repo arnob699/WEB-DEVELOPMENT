@@ -1,0 +1,12 @@
+table{
+    font-size: 20px;
+    background-color: rgb(53, 179, 137);
+    block-size: 300px;
+ ;
+}
+body{
+    background-color: rgba(185, 202, 202, 0.952);
+}
+caption{
+    font-size: 50px;
+}
